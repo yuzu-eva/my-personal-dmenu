@@ -2,4 +2,4 @@
 
 This is my personal build of dmenu from suckless.
 
-Pretty much the default build with some added keybinds.
+Pretty much the default build with my prefered font
